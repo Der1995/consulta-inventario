@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="es">
 <head>
     <meta charset="utf-8"/>
@@ -345,7 +346,7 @@ input[type=file]{color:var(--muted);margin:8px 0}
         <main class="container">
             <section id="home" class="section active-section">
                 <div class="search-card">
-                    <h2>Buscar código en inventarios Kacosa 2025</h2>
+                    <h2>Buscar código en inventario</h2>
                     <div class="row" style="margin-top:8px">
                         <input id="searchCode" placeholder="Ingrese código..." />
                         <button id="btnSearch">Buscar</button>
